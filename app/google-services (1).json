@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265457701765",
+    "firebase_url": "https://stocks-browser-default-rtdb.firebaseio.com",
+    "project_id": "stocks-browser",
+    "storage_bucket": "stocks-browser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265457701765:android:8aec9c4fef3ade617e2aec",
+        "android_client_info": {
+          "package_name": "com.gopi.stocksbrowser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265457701765-1h9oam2vfdte4rep50k04ieh53d8l8i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gopi.stocksbrowser",
+            "certificate_hash": "30617534b4ba1d15d6ac11c276548a9bc13ca42a"
+          }
+        },
+        {
+          "client_id": "265457701765-l5db2c760b31gjgjorssqakcnb1l3u1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1BkntQmobCTtzK-5dB3y5coDTt2HMVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265457701765-l5db2c760b31gjgjorssqakcnb1l3u1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

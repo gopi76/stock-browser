@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265457701765",
+    "project_id": "stocks-browser",
+    "storage_bucket": "stocks-browser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265457701765:android:8aec9c4fef3ade617e2aec",
+        "android_client_info": {
+          "package_name": "com.gopi.stocksbrowser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1BkntQmobCTtzK-5dB3y5coDTt2HMVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

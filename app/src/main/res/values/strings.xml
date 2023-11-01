@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stocks Browser</string>
+    <string name="default_web_client_id">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\n</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
