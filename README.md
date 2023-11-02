@@ -2,7 +2,7 @@
 
 Stock Browser is a comprehensive Android application designed to provide an immersive experience in stock market browsing. The app lets users sign in with their Google account, switch between light/dark modes, provide feedback, rate the app, and much more.
 
-🔗 *Demo Video*: [Stock Browser Demo](https://github.com/gopi76/stockbrowser/blob/main/12115851%5BCSE226%5D_096_Stocks%20Browser.mp4)
+🔗 *Demo Video*: [Stock Browser Demo](https://youtu.be/ZZTPk_ms-AU)
 
 ## Features 🌟
 
