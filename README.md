@@ -6,7 +6,7 @@ Stock Browser is a comprehensive Android application designed to provide an imme
 
 <video src="12115851[CSE226]_096_Stocks Browser.mp4" controls></video>
 
-
+<iframe width="853" height="480" src="https://www.youtube.com/embed/ZZTPk_ms-AU" title="Stocks Browser Android App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Features 🌟
 
