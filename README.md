@@ -4,6 +4,8 @@ Stock Browser is a comprehensive Android application designed to provide an imme
 
 🔗 *Demo Video*: [Stock Browser Demo](https://youtu.be/ZZTPk_ms-AU)
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ZZTPk_ms-AU/0.jpg)](http://www.youtube.com/watch?v=ZZTPk_ms-AU)
+
 ## Features 🌟
 
 - *Sign In through Google*: Securely log in via Google. UserData is stored in Firebase.
