@@ -4,8 +4,8 @@ Stock Browser is a comprehensive Android application designed to provide an imme
 
 🔗 **Demo Video**: [Stock Browser Demo](https://youtu.be/ZZTPk_ms-AU)
 
+<video src="12115851[CSE226]_096_Stocks Browser.mp4" controls></video>
 
-[![Stock Browser Demo](http://img.youtube.com/vi/ZZTPk_ms-AU/0.jpg)](https://www.youtube.com/watch?v=ZZTPk_ms-AU)
 
 
 ## Features 🌟
